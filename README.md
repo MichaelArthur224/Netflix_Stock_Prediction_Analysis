@@ -1,5 +1,4 @@
 # Netflix_Stock_Prediction_Analysis
-**I DO NOT OWN NETFLIX STOCK**
 **THIS IS NOT FINANCIAL ADVICE**
 This dataset contains the stock price values of Netflix from 2018 to 2022.
 Feature Description:
